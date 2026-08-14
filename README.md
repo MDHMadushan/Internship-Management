@@ -51,6 +51,5 @@ npm start
 
 Default Admin Credentials
 Email: admin@test.com
-Password: admin123<img width="1366" height="768" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/23cf7454-bdb6-4eaf-80d6-71bfcd8cd7a5" />
-<img width="1366" height="768" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/f57a6501-3257-4f10-be59-6f98ddca523b" />
-<img width="1366" height="768" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/08a39ab1-0b00-4ba7-94d7-28a08e62650e" />
+Password: admin123
+
